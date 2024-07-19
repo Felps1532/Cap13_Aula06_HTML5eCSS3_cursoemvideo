@@ -1,0 +1,16 @@
+Existem mais de 65M de cores! Então usar cores no CSS pelo nome em inglês é bastante limitado.
+
+4 FORMAS DE REPRESENTAR CORES EM HTML:
+
+1. Por nomes
+	Blue, dark blue, light green, lime, red, pink, etc.
+
+2. Por hexadecimal 00(red) 00(green) 00(blue) -> 0000ff (azul)
+	HEXADECIMAL: 0 1 2 3 4 5 6 7 8 9 A B C D E F;
+
+3. RGB
+	rgb(0, 0, 0) -> (quant. red, quant. green, quant. blue)
+
+4. Características de cores - HSL (Hue Saturation Lightness)
+	hsl(240, 100%, 50%) - azul
+	
